@@ -1,30 +1,30 @@
 from sys import stdout
 
 # Keywords
-KW_print        = 'ijustwannatelluhowimfeeling'
-KW_if           = 'andifuaskmehowimfeeling'
+KW_print        = 'showme'
+KW_if           = 'if'
 
-KW_let          = 'give'
-KW_assign       = 'up'
-KW_import1      = 'weknowthe'
-KW_import2      = "andwe'regonnaplayit"
-KW_def          = 'gonna'
-KW_return1      = 'whenigivemy'
-KW_return2      = 'itwillbecompletely'
-KW_try          = 'thereaintnomistaking'
-KW_except       = 'iftheyevergetudown'
-KW_main         = 'takemetourheart'
-KW_end          = 'saygoodbye'
+KW_let          = 'lint'
+KW_assign       = 'mario'
+KW_import1      = 'bring'
+KW_import2      = "bring2"
+KW_def          = 'egg'
+KW_return1      = 'comeback'
+KW_return2      = 'comeback2'
+KW_try          = 'attempt'
+KW_except       = 'xcept'
+KW_main         = 'protagonist'
+KW_end          = 'terminate'
 
-KW_break        = 'desertu'
-KW_continue     = 'runaround'
-KW_endless_loop = 'togetherforeverandnevertopart'
-KW_while_loop   = 'togetherforeverwith'
+KW_break        = 'rake'
+KW_continue     = 'keepgoing'
+KW_endless_loop = 'runforever'
+KW_while_loop   = 'whilerun'
 
-KW_L_OP = 'islessthan'
-KW_G_OP = 'isgreaterthan'
-KW_GOE_OP = 'isgreaterthanorequalto'
-KW_LOE_OP = 'islessthanorequalto'
+KW_L_OP = 'isinferiorthan'
+KW_G_OP = 'issuperiorthan'
+KW_GOE_OP = 'issuperiorthanorequalto'
+KW_LOE_OP = 'isinferiorthanorequalto'
 KW_is_not_OP = 'aint'
 KW_E_OP = 'is'
 
